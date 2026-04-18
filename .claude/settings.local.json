@@ -3,7 +3,8 @@
     "allow": [
       "Bash(cd:*)",
       "Bash(tail:*)",
-      "Bash(head:*)"
+      "Bash(head:*)",
+      "Bash(git *)"
     ]
   }
 }
